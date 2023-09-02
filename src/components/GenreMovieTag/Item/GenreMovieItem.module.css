@@ -1,0 +1,16 @@
+.genre__item {
+  height: 15px;
+  padding: 5px;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  color: #000000a6;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .genre__item {
+    font-size: 14px;
+  }
+}

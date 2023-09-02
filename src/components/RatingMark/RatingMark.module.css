@@ -1,0 +1,28 @@
+.rating {
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rating__0_3 {
+  border: 3px solid #e90000;
+}
+
+.rating__3_5 {
+  border: 3px solid #e97e00;
+}
+
+.rating__5_7 {
+  border: 3px solid #e9d100;
+}
+
+.rating__7 {
+  border: 3px solid #66e900;
+}
